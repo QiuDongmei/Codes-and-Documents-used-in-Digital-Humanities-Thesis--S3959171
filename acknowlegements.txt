@@ -1,0 +1,9 @@
+This document is the acknowlegment of used codes that help me finish the thesis!
+
+
+1) https://github.com/Python3Spiders/WeiboSuperSpider
+
+2)https://blog.csdn.net/guotong1988/article/details/97241204
+
+3)https://github.com/isnowfy/snownlp
+
