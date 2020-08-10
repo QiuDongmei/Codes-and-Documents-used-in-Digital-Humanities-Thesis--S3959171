@@ -7,3 +7,4 @@ This document is the acknowlegment of used codes that help me finish the thesis!
 
 3)https://github.com/isnowfy/snownlp
 
+4)https://blog.csdn.net/eastmount/article/details/85118818
